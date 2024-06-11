@@ -4,8 +4,8 @@ int main(void)
 
 
 
-      printf("test code1\n");
-      printf("code 2");
+     
+      printf("删库跑路   哈哈哈\n");
        		return 0;
 
 }
