@@ -1,6 +1,11 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("test code\n");
-		return 0;
+
+
+
+      printf("test code1\n");
+      printf("code 2");
+       		return 0;
+
 }
