@@ -6,6 +6,8 @@ int main(void)
 
      
       printf("删库跑路   哈哈哈\n");
-       		return 0;
+     printf("凌狗 跑的真快哈哈哈"）;
+
+		     return 0;
 
 }
