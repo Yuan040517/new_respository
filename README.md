@@ -68,3 +68,19 @@ Markdown,文本修饰语言,用特殊符号修饰正文效果<br>
 美人鱼|唱歌|34
 钢铁侠|速度|12
 
+### 代码片段
+
+```c
+       #include <stdio.h>
+       int main(void){
+       printf("test code\n");
+       return 0;
+       }
+```
+
+```cpp
+       #include <iostream>
+       using namespace std;
+```
+```python
+       import <os>
