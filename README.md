@@ -96,4 +96,8 @@ Markdown,文本修饰语言,用特殊符号修饰正文效果<br>
 ```
 
 ### 超链接技术
-[Github](https://www.github.com "点击访问")
+[https://github.com/Yuan040517/new_respository](https://www.github.com "点击访问")
+
+### 插入图片
+![壁纸截图](C://sijieduan//1.jpg"悬停标题")
+
